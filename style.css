@@ -32,6 +32,8 @@ body {
 	--color-content-title-sub: #6b5537;
     color: var(--color-text);
     background-color: var(--color-bg);
+	background-image: url(https://img4.thuthuatphanmem.vn/uploads/2020/12/26/background-trai-tim-cute_090834291.png);
+	background-size: 100%;
     --cursor-stroke: #6b5537;
     --cursor-fill: none;
     --cursor-stroke-width: 1px;
